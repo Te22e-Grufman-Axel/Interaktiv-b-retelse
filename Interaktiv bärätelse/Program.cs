@@ -1,10 +1,33 @@
-﻿String choice = "";
+﻿using Microsoft.Win32.SafeHandles;
+
+String choice = "";
+
+Console.ForegroundColor = ConsoleColor.Yellow;
+Console.WriteLine("                 .");
+Console.WriteLine("                .m");
+Console.WriteLine("               ,mm");
+Console.WriteLine("               MM:");
+Console.WriteLine("          .    Ymm,");
+Console.WriteLine("          M    'MMM,");
+Console.WriteLine("          M.    MMM     ,");
+Console.WriteLine("          MM,  ,MMM    .M "); //AscII art
+Console.WriteLine("          'MM, MMM'  ,MM'");
+Console.WriteLine("          ,MMM.MMMMM.MMM,");
+Console.WriteLine("          MMMMMMMMMMMMMMM");
+Console.WriteLine("          MMMMMMMMMMMMMMM");
+Console.WriteLine("           '''''''''''''");
+
+Console.WriteLine("");
+Console.WriteLine(""); // Tom plats mellan bilden och resten av texten
+Console.WriteLine("");
+Console.WriteLine("");
 
 Console.WriteLine("Du vaknar upp av att brandlarmet går av");
 Console.WriteLine("Du hoppar ur sängen och sprintar ut ur ditt rum");   //Inleding
 Console.WriteLine("Där kan du välja att gå till höger eller vänster");
 Console.WriteLine("Till höger springer du längre in i huset för att rädda dom du älskar medans till vänster flyr du själv ut ur huset");
-Console.WriteLine("Vart går du, Höger(h) eller Vänster(v)?");
+Console.WriteLine("Eller så kan du gå framåt in bakom en mystisk dörr");
+Console.WriteLine("Vart går du, Höger(h) eller Vänster(v) eller rakt fram(f)?");
 choice = Console.ReadLine(); //Gör choice till vad du skriver
 choice = choice.ToLower(); //Gör choice till lovercase
 
@@ -69,7 +92,14 @@ else// vad som händer om du skriver fel
     Console.WriteLine("Du valde inget rätt val så din familj brann upp");
     Console.WriteLine("Och din frus föräldrar dödar dig");
 }
-
+}
+else if (choice == "f")
+{
+    Console.WriteLine("Du slår upp dörren och springer in");
+    Console.WriteLine("Du ser att det är en trappa och kommer på att det bara är trappan ner till källaren");
+    Console.WriteLine("Men det är för sent och du rammlar ner och dör");
+          
+    
 }
 else// vad som händer om du skriver fel
 {
