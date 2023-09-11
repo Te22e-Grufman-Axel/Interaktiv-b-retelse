@@ -1,5 +1,5 @@
-﻿using Microsoft.Win32.SafeHandles;
-
+﻿while (true)
+ {
 String choice = "";
 
 Console.ForegroundColor = ConsoleColor.Yellow;
@@ -48,6 +48,7 @@ Console.WriteLine("Du springer in i dörren till höger");
 Console.WriteLine("Där inne ser du din son,din dotter och din fru.");//mer val text
 Console.WriteLine("Du bär ut din son och din dotter medans din fru går ut själv");
 Console.WriteLine("Du lyckas rädda dom och ses som en hjälte i din familjs ögon");
+Console.WriteLine("Klick på en knapp för att köra igen");
 }
 else if (choice == "v")//fler val
 {
@@ -59,10 +60,12 @@ Console.WriteLine("När du kommer ut ur huset står din frus föräldrar där");
 Console.WriteLine("Du glömde att dom bodde på andra sidan gatan"); //mer val text
 Console.WriteLine("När dom ser dig springa ut ur huset med din dator och inte din familj blir dom så arga att dom slår sönder din dator");
 Console.WriteLine("Du försöker kämpa emot men det leder till att dom slår ihjäl dig också");
+    Console.WriteLine("Klick på en knapp för att köra igen");
 }
 else // vad som händer om du skriver fel
 {
 Console.WriteLine("Du valde inget rätt val så du och din familj brann upp");
+Console.WriteLine("Klick på en knapp för att köra igen");
 }
 }
 else if(choice == "v")//fler val
@@ -78,6 +81,7 @@ if(choice == "u")//fler val
 {
 Console.WriteLine("Du väljer att stanna ute och ser hur din familj brinner upp");//mer val text
 Console.WriteLine("Din frus föräldrar anklagar dig och ett par dar effter branden tar du självmord");
+Console.WriteLine("Klick på en knapp för att köra igen");
 }
 else if( choice == "i")//fler val
 {
@@ -91,6 +95,7 @@ else// vad som händer om du skriver fel
 {
     Console.WriteLine("Du valde inget rätt val så din familj brann upp");
     Console.WriteLine("Och din frus föräldrar dödar dig");
+    Console.WriteLine("Klick på en knapp för att köra igen");
 }
 }
 else if (choice == "f")
@@ -98,14 +103,18 @@ else if (choice == "f")
     Console.WriteLine("Du slår upp dörren och springer in");
     Console.WriteLine("Du ser att det är en trappa och kommer på att det bara är trappan ner till källaren");
     Console.WriteLine("Men det är för sent och du rammlar ner och dör");
+        Console.WriteLine("Klick på en knapp för att köra igen");
           
     
 }
 else// vad som händer om du skriver fel
 {
     Console.WriteLine("Du valde inget rätt val så du och din familj brann upp");
+    Console.WriteLine("Klick på en knapp för att köra igen");
 }
 
 
 
-Console.ReadLine();//så texten inte försviner direkt
+Console.ReadKey();//så texten inte försviner direkt
+Console.Clear();
+}
