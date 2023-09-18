@@ -1,0 +1,14 @@
+C:\Users\axel.grufman\Documents\Vanlig programering\Kampspel\Kampspel\bin\Debug\net7.0\Kampspel.exe
+C:\Users\axel.grufman\Documents\Vanlig programering\Kampspel\Kampspel\bin\Debug\net7.0\Kampspel.deps.json
+C:\Users\axel.grufman\Documents\Vanlig programering\Kampspel\Kampspel\bin\Debug\net7.0\Kampspel.runtimeconfig.json
+C:\Users\axel.grufman\Documents\Vanlig programering\Kampspel\Kampspel\bin\Debug\net7.0\Kampspel.dll
+C:\Users\axel.grufman\Documents\Vanlig programering\Kampspel\Kampspel\bin\Debug\net7.0\Kampspel.pdb
+C:\Users\axel.grufman\Documents\Vanlig programering\Kampspel\Kampspel\obj\Debug\net7.0\Kampspel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\axel.grufman\Documents\Vanlig programering\Kampspel\Kampspel\obj\Debug\net7.0\Kampspel.AssemblyInfoInputs.cache
+C:\Users\axel.grufman\Documents\Vanlig programering\Kampspel\Kampspel\obj\Debug\net7.0\Kampspel.AssemblyInfo.cs
+C:\Users\axel.grufman\Documents\Vanlig programering\Kampspel\Kampspel\obj\Debug\net7.0\Kampspel.csproj.CoreCompileInputs.cache
+C:\Users\axel.grufman\Documents\Vanlig programering\Kampspel\Kampspel\obj\Debug\net7.0\Kampspel.dll
+C:\Users\axel.grufman\Documents\Vanlig programering\Kampspel\Kampspel\obj\Debug\net7.0\refint\Kampspel.dll
+C:\Users\axel.grufman\Documents\Vanlig programering\Kampspel\Kampspel\obj\Debug\net7.0\Kampspel.pdb
+C:\Users\axel.grufman\Documents\Vanlig programering\Kampspel\Kampspel\obj\Debug\net7.0\Kampspel.genruntimeconfig.cache
+C:\Users\axel.grufman\Documents\Vanlig programering\Kampspel\Kampspel\obj\Debug\net7.0\ref\Kampspel.dll

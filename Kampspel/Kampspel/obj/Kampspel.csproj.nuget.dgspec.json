@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\axel.grufman\\Documents\\Vanlig programering\\Kampspel\\Kampspel\\Kampspel.csproj": {}
+    "C:\\Users\\axel.grufman\\Documents\\Vanlig programering\\Kampspel\\Kampspel\\Kampspel.csproj": {}
   },
   "projects": {
-    "c:\\Users\\axel.grufman\\Documents\\Vanlig programering\\Kampspel\\Kampspel\\Kampspel.csproj": {
+    "C:\\Users\\axel.grufman\\Documents\\Vanlig programering\\Kampspel\\Kampspel\\Kampspel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\axel.grufman\\Documents\\Vanlig programering\\Kampspel\\Kampspel\\Kampspel.csproj",
+        "projectUniqueName": "C:\\Users\\axel.grufman\\Documents\\Vanlig programering\\Kampspel\\Kampspel\\Kampspel.csproj",
         "projectName": "Kampspel",
-        "projectPath": "c:\\Users\\axel.grufman\\Documents\\Vanlig programering\\Kampspel\\Kampspel\\Kampspel.csproj",
+        "projectPath": "C:\\Users\\axel.grufman\\Documents\\Vanlig programering\\Kampspel\\Kampspel\\Kampspel.csproj",
         "packagesPath": "C:\\Users\\axel.grufman\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\axel.grufman\\Documents\\Vanlig programering\\Kampspel\\Kampspel\\obj\\",
+        "outputPath": "C:\\Users\\axel.grufman\\Documents\\Vanlig programering\\Kampspel\\Kampspel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
