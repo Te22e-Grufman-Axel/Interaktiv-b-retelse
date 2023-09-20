@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\axel.grufman\\Documents\\Vanlig programering\\Interaktiv bärätelse\\Interaktiv bärätelse.csproj": {}
+    "c:\\Users\\axel.grufman\\Documents\\Vanlig programering\\Interaktiv bärätelse\\Interaktiv bärätelse.csproj": {}
   },
   "projects": {
-    "C:\\Users\\axel.grufman\\Documents\\Vanlig programering\\Interaktiv bärätelse\\Interaktiv bärätelse.csproj": {
+    "c:\\Users\\axel.grufman\\Documents\\Vanlig programering\\Interaktiv bärätelse\\Interaktiv bärätelse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\axel.grufman\\Documents\\Vanlig programering\\Interaktiv bärätelse\\Interaktiv bärätelse.csproj",
+        "projectUniqueName": "c:\\Users\\axel.grufman\\Documents\\Vanlig programering\\Interaktiv bärätelse\\Interaktiv bärätelse.csproj",
         "projectName": "Interaktiv bärätelse",
-        "projectPath": "C:\\Users\\axel.grufman\\Documents\\Vanlig programering\\Interaktiv bärätelse\\Interaktiv bärätelse.csproj",
+        "projectPath": "c:\\Users\\axel.grufman\\Documents\\Vanlig programering\\Interaktiv bärätelse\\Interaktiv bärätelse.csproj",
         "packagesPath": "C:\\Users\\axel.grufman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\axel.grufman\\Documents\\Vanlig programering\\Interaktiv bärätelse\\obj\\",
+        "outputPath": "c:\\Users\\axel.grufman\\Documents\\Vanlig programering\\Interaktiv bärätelse\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
